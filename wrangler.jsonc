@@ -9,4 +9,10 @@
     "enabled": true,
     "cross_version_cache": true
   }
+  "routes": [
+    {
+      "pattern": "cheng.cd710601.cloud/*",
+      "zone_name": "cd710601.cloud"
+    }
+  ]
 }
